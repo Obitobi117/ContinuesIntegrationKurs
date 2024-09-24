@@ -19,7 +19,7 @@ jobs:
       # https://github.com/marketplace/actions/markdown-to-pdf-and-html
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
-          input_path: .
+          input_path: ./**.md
           output_dir: generated-pdfs
           build_html: false
       - uses: actions/upload-artifact@v3
