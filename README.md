@@ -1,5 +1,7 @@
 # Continuous-Integration-Kurs
 
+[![Continuous Integration](https://github.com/Obitobi117/ContinuesIntegrationKurs/actions/workflows/ci.yml/badge.svg)](https://github.com/Obitobi117/ContinuesIntegrationKurs/actions/workflows/ci.yml)
+
 Das ist das Repository für die Übung im Kurs.
 
 ## Anleitung für einen Pull-Request
@@ -50,6 +52,3 @@ Damit das Repository mit den Änderungen auch lokal gespeichert wird, muss man d
 ```bash
 git pull
 ```
-
-
-
