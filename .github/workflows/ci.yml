@@ -20,6 +20,7 @@ jobs:
     needs: validate-markdown
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       # https://github.com/marketplace/actions/markdown-to-pdf-and-html
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
