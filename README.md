@@ -52,3 +52,8 @@ Damit das Repository mit den Änderungen auch lokal gespeichert wird, muss man d
 ```bash
 git pull
 ```
+
+## git cheat sheet
+
+- [Grundbefehle](Grundbefehle.md)
+
