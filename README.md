@@ -7,4 +7,5 @@ Das ist das Repository für die Übung im Kurs.
 ## git cheat sheet
 
 - [Grundbefehle](Grundbefehle.md)
+- [erweiterte konzepte](erweiterte_konzepte.md)
 - [Pull-Request-Anleitung](Anleitung.md)
